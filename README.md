@@ -6,4 +6,7 @@ that we had about 4.5 million rows for that I thought to filter our data to decr
 I used the !duplicated function between Date.Time column & Base column to remove any duplicated data and then 
 decrease the total number of rows. Then, I got the summary of our data found that Date.Time column type needs to be changed.
 After that, I saw that we needed some new columns e.g. month, day, day of week, hour, minute, and second. Finally, I started 
-to make different visualizations that give us plenty of details about our data.
+to make different visualizations that gave us plenty of details about our data.
+
+https://www.kaggle.com/datasets/gargshriya/uberdataset 
+Here, you can see and download the main dataset I used for the analysis
